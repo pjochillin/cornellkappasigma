@@ -42,7 +42,7 @@ var headerParallax = (function() {
 	}
 
 	function setHeaderPercent( percent ) {
-		var scalar = percent * 23 - 23;
+		var scalar = percent * 23 - 7;
 
 		$anchor.css('transform', 'translateY(' + scalar + '%)');
 	}

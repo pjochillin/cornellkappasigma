@@ -22,21 +22,27 @@ header {
 
 	.anchor {
 		position: absolute;
-		height: 130%;
+		height: 110%;
 		width: 100%;
-
-		transform: translate(0, -23%);
-		-webkit-transform: translate(0, -23%);
-		-moz-transform: translate(0, -23%);
+		transform: translate(0, -7%);
+		-webkit-transform: translate(0, -7%);
+		-moz-transform: translate(0, -7%);
 		left: 0;
-	    background-attachment: scroll;
-	    background-image: url(../img/back3.jpg);
-	    background-position: center center;
-	    background-repeat: none;
-	    -webkit-background-size: cover;
-	    -moz-background-size: cover;
-	    background-size: cover;
-	    -o-background-size: cover;
+
+		.image {
+			position: absolute;
+			left: 0;
+			right: 0;
+			top: 0;
+			bottom: 0;
+		    background-attachment: scroll;
+		    background-position: center center;
+		    background-repeat: none;
+		    -webkit-background-size: cover;
+		    -moz-background-size: cover;
+		    background-size: cover;
+		    -o-background-size: cover;
+		}
 	}
 
 	.blackscreen {
