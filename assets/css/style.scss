@@ -76,8 +76,24 @@ section#brothers {
 		}
 	}
 
+	@media (min-width: 410px) {
+	  .container {
+	    width: 410px;
+	  }
+	}
+	@media (min-width: 790px) {
+	  .container {
+	    width: 790px;
+	  }
+	}
+	@media (min-width: 1170px) {
+	  .container {
+	    width: 1170px;
+	  }
+	}
+
 	.class {
-		padding-bottom: 50px;
+		padding-bottom: 35px;
 
 		> h5 {
 			margin-bottom: 0px;
