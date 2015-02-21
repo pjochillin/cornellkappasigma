@@ -12,10 +12,10 @@ var headerGallery = (function() {
 	function init() {
 		$('header .anchor .image:gt(0)').hide();
 	    setInterval(function(){
-			$('header .anchor :first-child').fadeOut(1400)
-			.next('.image').fadeIn(1400)
+			$('header .anchor :first-child').fadeOut(1200)
+			.next('.image').fadeIn(1200)
 			.end().appendTo('header .anchor');
-		}, 5500);
+		}, 4750);
 	}
 
 	init();

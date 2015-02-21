@@ -11,12 +11,18 @@ var headerParallax = (function() {
 
 	var docElem = document.documentElement,
 		header = document.querySelector( 'header' ),
-		headerHeight = getHeaderHeight(),
 		$anchor = $( 'header .anchor' ),
 		didScroll = false,
 		changeHeaderOn = 100;
 
 	function init() {
+
+		if ( !header ) {
+			return;
+		}
+
+		headerHeight = getHeaderHeight();
+
 		window.addEventListener( 'scroll', function( event ) {
 
 			var percent = percentDownHeader();

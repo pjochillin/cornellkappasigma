@@ -16,6 +16,14 @@ var cbpAnimatedHeader = (function() {
 		changeHeaderOn = 100;
 
 	function init() {
+
+		var hero = document.querySelector( 'header' );
+
+		if ( !hero ) {
+			classie.add( header, 'navbar-shrink' );
+			return;
+		}
+
 		window.addEventListener( 'scroll', function( event ) {
 			if( !didScroll ) {
 				didScroll = true;
