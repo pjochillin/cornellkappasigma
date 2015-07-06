@@ -1,4 +1,29 @@
-# cornellkappasig
-The Official Website of the Alpha Kappa Cornell University Chapter of the Kappa Sigma Fraternity
+# [Cornell Kappa Sigma](http://cornellkappasig.com/)
 
-Missing Photos: James, Bloodnick, Curtis Wang
+Kappa Sigma, Alpha Kappa Chapter is a social fraternity at Cornell University since its founding in 1892, located in the stately mansion on 600 University Ave. in Ithaca since 1903. This repository documents its online website structure. This site is organized as a Jekyll installation to take advantage of Github Pages' awesome free hosting offering. By structuring it this way, we are able to omit our subscription from Squarespace and save about $200 a year (money that can go to social, hoooraah), while adding more flexibility for what we can do with our website.
+
+## Style Developement
+
+The [SASS](http://sass-lang.com/) structure uses Jekyll's built-in SASS compiling so precompiling happens automatically before Jekyll serves the site. So to develop styles for the site, navigate to the root directory of the project in Terminal and serve the site ([Jekyll](http://jekyllrb.com/) must be installed):
+
+```
+jekyll serve
+```
+
+## License
+
+Cornell Kappa Sigma is [MIT licensed](./LICENSE?raw=true) and is available for public use by anybody who wants to use this repo for their own work. Don't be tastless about it.
+
+## Version Screenshots
+
+**Version 2.0** *Current* (2015)
+
+![ScreenShot](./screenshots/v2_1.png)
+
+**Version 1.0** (2011)
+
+![ScreenShot](./screenshots/v1_1.png)
+
+AEKDB
+
+<!-- Missing Photos: James, Bloodnick, Curtis Wang -->
