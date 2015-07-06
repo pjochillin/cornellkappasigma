@@ -4,7 +4,7 @@ Kappa Sigma, Alpha Kappa Chapter is a social fraternity at Cornell University si
 
 ## Style Developement
 
-The [SASS](http://sass-lang.com/) structure uses Jekyll's built-in SASS compiling so precompiling happens automatically before Jekyll serves the site. So to develop styles for the site, navigate to the root directory of the project in Terminal and serve the site ([Jekyll](http://jekyllrb.com/) must be installed):
+The [SASS](http://sass-lang.com/) structure uses Jekyll's built-in SASS compiling so precompiling happens automatically before Jekyll serves the site. To develop styles for the site, navigate to the root directory of the project in Terminal and serve the site ([Jekyll](http://jekyllrb.com/) must be installed):
 
 ```
 jekyll serve
