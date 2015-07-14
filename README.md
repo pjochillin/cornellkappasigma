@@ -1,6 +1,6 @@
 # [Cornell Kappa Sigma](http://cornellkappasig.com/)
 
-Kappa Sigma, Alpha Kappa Chapter is a social fraternity at Cornell University since its founding in 1892, located in the stately mansion on 600 University Ave. in Ithaca since 1903. This repository documents its online website structure. This site is organized as a Jekyll installation to take advantage of Github Pages' awesome free hosting offering. By structuring it this way, we are able to omit our subscription from Squarespace and save about $200 a year (money that can go to social, hoooraah), while adding more flexibility for what we can do with our website.
+Kappa Sigma, Alpha Kappa Chapter is a social fraternity at Cornell University, founded in 1892 and located in the stately mansion on 600 University Ave. in Ithaca since 1903. This repository documents its online website structure. This site is organized as a Jekyll installation to take advantage of Github Pages' awesome free hosting offering. By structuring it this way, we are able to omit our subscription from Squarespace and save about $200 a year (money that can go to social, hoooraah), while adding more flexibility for what we can do with our website.
 
 ## Style Developement
 
