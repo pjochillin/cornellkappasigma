@@ -1,0 +1,322 @@
+{
+    "founding": [
+        {
+            "name": "Tanvir Sidhu",
+            "year": 2016,
+            "hometown": "New Hartford, NY",
+            "major": "Operations Research"
+        },
+        {
+            "name": "Curtis Wang",
+            "year": 2016,
+            "hometown": "Walnut, CA",
+            "major": "Economics"
+        }
+    ],
+    "beta": [
+        {
+            "name": "Jordan Diamond",
+            "year": 2016,
+            "hometown": "Amherst, MA",
+            "major": "Hotel Administration"
+        },
+        {
+            "name": "Conrad Hain",
+            "year": 2016,
+            "hometown": "Carmel, CA",
+            "major": "Near Eastern Studies"
+        },
+        {
+            "name": "Nicholas Hatter",
+            "year": 2016,
+            "hometown": "Rhinebeck, NY",
+            "major": "Biological Engineering"
+        },
+        {
+            "name": "Alexander Loftus",
+            "year": 2016,
+            "hometown": "Lancaster, NY",
+            "major": "Biological Sciences"
+        },
+        {
+            "name": "Reuben Mathew",
+            "year": 2016,
+            "hometown": "Utica, NY",
+            "major": "Biology and Society"
+        },
+        {
+            "name": "Sam Miller",
+            "year": 2016,
+            "hometown": "Sag Harbor, NY",
+            "major": "Computer Science"
+        },
+        {
+            "name": "Chris Perrotti",
+            "year": 2016,
+            "hometown": "Ivyland, PA",
+            "major": "Mechanical Engineering"
+        },
+        {
+            "name": "David Solinger",
+            "year": 2016,
+            "hometown": "Syosset, NY",
+            "major": "Computer Science"
+        }
+    ],
+    "gamma": [
+        {
+            "name": "Daniel Cykman",
+            "year": 2016,
+            "hometown": "Kings Park, NY",
+            "major": "Mechanical Engineering"
+        },
+        {
+            "name": "Blake Elkins",
+            "year": 2016,
+            "hometown": "Moorestown, NJ",
+            "major": "Entomology"
+        },
+        {
+            "name": "Jourdan Norman",
+            "year": 2016,
+            "hometown": "El Paso, TX",
+            "major": "Biology and Society"
+        },
+        {
+            "name": "Josh Richardson",
+            "year": 2016,
+            "hometown": "Reinholds, PA",
+            "major": "Computer Science"
+        }
+    ],
+    "delta": [
+        {
+            "name": "Jake Aloia",
+            "year": 2016,
+            "hometown": "Chester, NJ",
+            "major": "Chemical Engineering"
+        },
+        {
+            "name": "Jude Asare",
+            "year": 2017,
+            "hometown": "Milton, Ontario",
+            "major": "Economics"
+        },
+        {
+            "name": "Brendan Bloodnick",
+            "year": 2016,
+            "hometown": "Ithaca, NY",
+            "major": "Biology"
+        },
+        {
+            "name": "Jacob Flanzenbaum",
+            "year": 2017,
+            "hometown": "Greenlawn, NY",
+            "major": "Marine Biology"
+        },
+        {
+            "name": "Kyle Glavey-Weiss",
+            "year": 2017,
+            "hometown": "New York, NY",
+            "major": "Environmental Engineering"
+        },
+        {
+            "name": "Nathan Hwang",
+            "year": 2016,
+            "hometown": "San Marino, CA",
+            "major": "Information Science"
+        },
+        {
+            "name": "Jordan Isenberg",
+            "year": 2017,
+            "hometown": "Shaker Heights, OH",
+            "major": "Economics"
+        },
+        {
+            "name": "Samuel Katz",
+            "year": 2017,
+            "hometown": "Castleton, NY",
+            "major": "Human Biology, Health, and Society"
+        },
+        {
+            "name": "Shiv Malhotra",
+            "year": 2017,
+            "hometown": "Millburn, NJ",
+            "major": "Computer Science"
+        },
+        {
+            "name": "John Newman",
+            "year": 2016,
+            "hometown": "Thornwood, NY",
+            "major": "Applied and Engineering Physics"
+        },
+        {
+            "name": "Azael Paz",
+            "year": 2017,
+            "hometown": "Inglewood, CA",
+            "major": "Biological Sciences"
+        },
+        {
+            "name": "Siddhant Sachdev",
+            "year": 2017,
+            "hometown": "Ghaziabad, Uttar Pradesh",
+            "major": "Economics & Government"
+        },
+        {
+            "name": "David Sammel",
+            "year": 2016,
+            "hometown": "Somers, NY",
+            "major": "Computer Science"
+        },
+        {
+            "name": "Duncan Soqui",
+            "year": 2017,
+            "hometown": "Tualatin, OR",
+            "major": "Economics"
+        },
+        {
+            "name": "Max Van Zile",
+            "year": 2017,
+            "hometown": "Pompano Beach, FL",
+            "major": "Economics"
+        }
+    ],
+    "epsilon": [
+        {
+            "name": "Nathan Bach",
+            "year": 2017,
+            "hometown": "Ithaca, NY",
+            "major": "Math & Economics"
+        },
+        {
+            "name": "Noah Pacifici",
+            "year": 2017,
+            "hometown": "Palos Verdes, CA",
+            "major": "Biological Engineering"
+        },
+        {
+            "name": "James Yi",
+            "year": 2017,
+            "hometown": "Needham, MA",
+            "major": "Biology"
+        }
+    ],
+    "transfer": [
+        {
+            "name": "Brendan Murray",
+            "year": 2016,
+            "hometown": "Fayetteville, NY",
+            "major": "Industrial and Labor Relations"
+        }
+    ],
+    "zeta": [
+        {
+            "name": "Maxwell Bleiweis",
+            "year": 2018,
+            "hometown": "Gainesville, FL",
+            "major": "Undeclared"
+        },
+        {
+            "name": "Daniel Casey",
+            "year": 2018,
+            "hometown": "San Francisco, CA",
+            "major": "Chemistry"
+        },
+        {
+            "name": "Austin Chan",
+            "year": 2017,
+            "hometown": "Los Angeles, CA",
+            "major": "Computer Science"
+        },
+        {
+            "name": "Kevin Chan",
+            "year": 2017,
+            "hometown": "Burlingame, CA",
+            "major": "Materials Science and Engineering"
+        },
+        {
+            "name": "Ritwik Dan",
+            "year": 2018,
+            "hometown": "Slingerlands, NY",
+            "major": "Physics"
+        },
+        {
+            "name": "Luke Daniels",
+            "year": 2018,
+            "hometown": "San Juan Capistrano, CA",
+            "major": "Industrial and Labor Relations"
+        },
+        {
+            "name": "Arlo DiPasquale",
+            "year": 2017,
+            "hometown": "West Falls, NY",
+            "major": "Industrial and Labor Relations"
+        },
+        {
+            "name": "Jordan Epstein",
+            "year": 2018,
+            "hometown": "Tampa, FL",
+            "major": "Economics & Government"
+        },
+        {
+            "name": "Justin Hall",
+            "year": 2018,
+            "hometown": "Middlefield, CT",
+            "major": "Human Biology, Health, and Society"
+        },
+        {
+            "name": "August Kronstadt-Brennan",
+            "year": 2017,
+            "hometown": "Piermont, NY",
+            "major": "Plant Science"
+        },
+        {
+            "name": "Haydn Lenz",
+            "year": 2017,
+            "hometown": "Kennewick, WA",
+            "major": "Plant Science"
+        },
+        {
+            "name": "Louis Liu",
+            "year": 2017,
+            "hometown": "Beijing, Hebei",
+            "major": "Applied Economics and Management"
+        },
+        {
+            "name": "Zachary Mandell",
+            "year": 2018,
+            "hometown": "Charlottesville, VA",
+            "major": "Philosophy & Statistical Sciences"
+        },
+        {
+            "name": "Zachary Meyers",
+            "year": 2018,
+            "hometown": "Chester Springs, PA",
+            "major": "Economics & Information Science"
+        },
+        {
+            "name": "Ehi Ojie",
+            "year": 2018,
+            "hometown": "Port Harcourt, Rivers State",
+            "major": "Biology"
+        },
+        {
+            "name": "Kenneth Serrano",
+            "year": 2017,
+            "hometown": "Yonkers, NY",
+            "major": "Biological Sciences"
+        },
+        {
+            "name": "Christian Urbina",
+            "year": 2018,
+            "hometown": "Milton, MA",
+            "major": "Animal Science"
+        },
+        {
+            "name": "Elijah Wilt",
+            "year": 2018,
+            "hometown": "Columbus, OH",
+            "major": "Computer Science"
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+    <!-- Header -->
+    <header>
+        <div class="anchor">
+            <div class="image" style="background-image:url(/assets/img/back8.jpg)"></div>
+            <div class="image" style="background-image:url(/assets/img/back7.jpg)"></div>
+            <div class="image" style="background-image:url(/assets/img/back6.jpg)"></div>
+            <div class="image" style="background-image:url(/assets/img/back5.jpg)"></div>
+        </div>
+        <div class="blackscreen"></div>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-heading">Kappa Sigma</div>
+                <div class="intro-paragraph">
+                    Cornell University's finest brotherhood of propitious and incommensurable intellectuals.<br>
+                    Alpha Kappa Chapter – Est. 1892
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Brothers Section -->
+    <section id="brothers">
+        <div class="container">
+            <h3>Active Brothers</h3>
+
+            <% for (var cl in data) { %>
+            <div class="class">
+                <h5><%= cl %> Class</h5>
+                <div class="group">
+                    <% for (var b = 0; b < data[cl].length; b++) { %>
+                        <% var bro = data[cl][b]; %>
+
+                        <div class="bro">
+                            <div class="face" style="background-image:url('assets/img/brothers/<%= cl %>/<%= bro.name %>.jpg')"></div>
+                            <div class="desc">
+                                <p class="name"><%= bro.name %></p>
+                                <div class="info">
+                                    Class of <%= bro.year %><br>
+                                    <%= bro.hometown %><br>
+                                    <%= bro.major %>
+                                </div>
+                            </div>
+                        </div>
+
+                    <% } %>
+                </div>
+            </div>
+            <% } %>
+        </div>
+    </section>
+
+    <div class="footerspacing"></div>
