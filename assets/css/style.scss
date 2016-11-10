@@ -293,6 +293,32 @@ footer {
 	}
 }
 
+.gallery{
+	width: 528px;
+	margin: auto;
+}
+
+.gallery ul{
+	list-style: none;
+}
+
+.gallery li{
+	float: left;
+	margin: 10px;
+}
+
+.gallery img{
+	display: block;
+	padding: 5px;
+	background: blue;
+	border: 1px solid gray;
+	box-shadow: 1px 1px 2px black;
+}
+
+.gallery img:hover{
+	border: 1px solid white;
+}
+
 .footerspacing {
 	height: 71px;
 	width: 100%;
