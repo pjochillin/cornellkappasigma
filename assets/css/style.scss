@@ -321,9 +321,11 @@ footer {
 
 h1 {
 		position: relative;
+		text-align: center;
 		display: inline-block;
 		font-family: Crimson Text;
 		text-transform: none;
+		
 		&:after {
 			content: "";
 			position: absolute;
