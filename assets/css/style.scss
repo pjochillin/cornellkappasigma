@@ -292,30 +292,6 @@ footer {
 		padding-bottom: 20px;
 	}
 }
-h3 {
-		position: relative;
-		display: inline-block;
-		font-family: Crimson Text;
-		text-transform: none;
-		&:after {
-			content: "";
-			position: absolute;
-			width: 73px;
-			height: 1px;
-			background: rgb(51, 51, 51);
-			left: -88px;
-			top: 53%;
-		}
-		&:before {
-			content: "";
-			position: absolute;
-			width: 73px;
-			height: 1px;
-			background: rgb(51, 51, 51);
-			right: -88px;
-			top: 53%;
-		}
-	}
 
 .gallery{
 	width: 960px;
