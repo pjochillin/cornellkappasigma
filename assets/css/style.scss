@@ -292,6 +292,10 @@ footer {
   @media (max-width: 768px) {
     padding-top: 20px;
     padding-bottom: 20px;
+    p {
+      margin-left: 10%;
+      margin-right: 10%;
+    }
   }
 }
 
