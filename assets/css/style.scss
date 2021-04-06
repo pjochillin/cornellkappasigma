@@ -249,11 +249,11 @@ footer {
 
   .left {
     float: left;
-    width: 60%;
+    width: 70%;
     padding: 0px 20px;
 
     h5 {
-      font-size: 18px;
+      font-size: 2.5vw;
     }
 
     hr {
@@ -263,13 +263,14 @@ footer {
 
     p {
       font-family: Crimson Text;
+      font-size: 1.25vw;
       padding: 5px;
     }
   }
 
   .right {
     float: left;
-    width: 40%;
+    width: 30%;
 
     img {
       width: 100%;
@@ -292,16 +293,14 @@ footer {
 }
 
 #recruitment {
-  padding-top: 142px;
+  padding-top: 70px;
   text-align: center;
-  font-family: Crimson Text;
 
   h3 {
     font-size: 3.5vw;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     position: relative;
     display: inline-block;
-    font-family: Crimson Text;
     text-transform: none;
     &:after {
       content: "";
