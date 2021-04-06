@@ -227,6 +227,22 @@ footer {
   }
 }
 
+#alumni {
+  .container {
+    h5 {
+      font-size: 3.5vw;
+      font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-weight: 700;
+      text-align: center;
+    }
+    p {
+      font-size: 1.5vw;
+      margin-left: 10%;
+      margin-right: 10%;
+    }
+  }
+}
+
 #contact {
   padding-top: 70px;
   padding-bottom: 70px;
