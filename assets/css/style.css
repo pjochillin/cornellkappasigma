@@ -8574,26 +8574,29 @@ footer p {
 }
 
 #philanthropy .container h5 {
-  font-size: 3.5vw;
+  text-align: center;
+  font-size: 2.5vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #philanthropy .container p {
-  font-size: 1.5vw;
+  font-size: 1.15vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #contact {
-  padding-top: 70px;
+  padding-top: 20px;
   padding-bottom: 70px;
 }
 
 #contact .left {
   float: left;
-  width: 50%;
+  width: 60%;
   padding: 0px 20px;
 }
 
 #contact .left h5 {
-  font-size: 18px;
+  font-size: 2.25 vw;
 }
 
 #contact .left hr {
@@ -8602,12 +8605,13 @@ footer p {
 }
 
 #contact .left p {
-  font-family: Crimson Text;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.15vw;
 }
 
 #contact .right {
   float: left;
-  width: 50%;
+  width: 40%;
 }
 
 #contact .right img {
@@ -8630,16 +8634,16 @@ footer p {
 }
 
 #recruitment {
-  padding-top: 142px;
+  padding-top: 70px;
   text-align: center;
-  font-family: Crimson Text;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 #recruitment h3 {
   font-size: 3.5vw;
   position: relative;
   display: inline-block;
-  font-family: Crimson Text;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: none;
 }
 
