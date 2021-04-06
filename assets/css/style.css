@@ -8580,6 +8580,9 @@ footer p {
 }
 
 #philanthropy .container p {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 20px;
   font-size: 1.15vw;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -8596,7 +8599,7 @@ footer p {
 }
 
 #contact .left h5 {
-  font-size: 2.25 vw;
+  font-size: 2.25vw;
 }
 
 #contact .left hr {
@@ -8610,6 +8613,7 @@ footer p {
 }
 
 #contact .right {
+  padding-top: 100px;
   float: left;
   width: 40%;
 }
@@ -8669,8 +8673,8 @@ footer p {
 
 #recruitment p {
   margin-top: 5px;
-  margin-left: 25%;
-  margin-right: 25%;
+  margin-left: 20%;
+  margin-right: 20%;
 }
 
 @media (max-width: 768px) {
