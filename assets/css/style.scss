@@ -244,12 +244,12 @@ footer {
 }
 
 #contact {
-  padding-top: 70px;
+  padding-top: 20px;
   padding-bottom: 70px;
 
   .left {
     float: left;
-    width: 50%;
+    width: 60%;
     padding: 0px 20px;
 
     h5 {
@@ -263,12 +263,13 @@ footer {
 
     p {
       font-family: Crimson Text;
+      padding: 5px;
     }
   }
 
   .right {
     float: left;
-    width: 50%;
+    width: 40%;
 
     img {
       width: 100%;
