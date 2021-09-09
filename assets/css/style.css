@@ -8643,12 +8643,10 @@ footer p {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-#recruitment h3 {
-  font-size: 3.5vw;
-  position: relative;
-  display: inline-block;
+#recruitment .container h5 {
+  text-align: center;
+  font-size: 2.5vw;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: none;
 }
 
 #recruitment h3:after {
