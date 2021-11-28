@@ -8574,6 +8574,12 @@ footer p {
   height: 70px;
 }
 
+#philanthropy {
+  padding-top: 70px;
+  text-align: center;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 #philanthropy .container h5 {
   text-align: center;
   font-size: 1.5vw;
