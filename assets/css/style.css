@@ -8790,8 +8790,8 @@ footer p {
   }
 
   #presidentletter {
-    margin-left: 0%; 
-    margin-right: 0%;
+    margin-left: 5%; 
+    margin-right: 5%;
   }
   
   #presidentletter h5{
@@ -8801,7 +8801,7 @@ footer p {
   
   #presidentletter p{
     padding-top: 5px;
-    font-size: 50px;
+    font-size: 18px;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 }
