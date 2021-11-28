@@ -8681,6 +8681,32 @@ footer p {
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+#involvement {
+  padding-top: 0px;
+  text-align: center;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#involvement .container h3 {
+  text-align: center;
+  font-size: 2.5vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#involvement .container h5 {
+  text-align: center;
+  font-size: 1.5vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#involvement .container p {
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 20px;
+  font-size: 1.15vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
 
 @media (max-width: 768px) {
   #contact {
@@ -8735,6 +8761,25 @@ footer p {
   margin-right: 20%;
 }
 
+#presidentletter {
+  margin-left: 20%; 
+  margin-right: 20%;
+}
+
+#presidentletter h5{
+  text-align: center; 
+  font-size: 2.5vw;
+}
+
+#presidentletter p{
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 20px;
+  font-size: 1.15vw;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
 @media (max-width: 768px) {
   #recruitment {
     padding-top: 20px;
@@ -8744,6 +8789,22 @@ footer p {
     margin-left: 10%;
     margin-right: 10%;
     font-size: 18px;
+  }
+
+  #presidentletter {
+    margin-left: 5%; 
+    margin-right: 5%;
+  }
+  
+  #presidentletter h5{
+    text-align: center; 
+    font-size: 30px;
+  }
+  
+  #presidentletter p{
+    padding-top: 20px;
+    font-size: 25px;
+    font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
   }
 }
 
