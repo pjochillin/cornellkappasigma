@@ -1,4 +1,8 @@
 @media only screen and (max-width: 600px) {
+    .container {
+        width: 90%;
+        margin-left: 5%
+    }
     p {
       font-size: 22;
     }
