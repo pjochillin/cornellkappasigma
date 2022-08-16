@@ -8648,12 +8648,17 @@ footer p {
 }
 
 #recruitment .container p {
-  margin-left: 20%;
-  margin-right: 20%;
-  padding-top: 20px;
-  font-size: 1.15vw;
   font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+
+@media (min-width: 769px) {
+  #recruitment .container p {
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-top: 20px;
+    font-size: 1.15vw;
+  }
+  }
 
 #alumni {
   padding-top: 70px;
